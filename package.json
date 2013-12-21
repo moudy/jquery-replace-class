@@ -1,0 +1,17 @@
+{
+  "name": "jquery-replace-class",
+  "version": "0.0.0",
+  "description": "Replace one or more classes on an element",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "~1.16.1",
+    "chai": "~1.8.1",
+    "jsdom": "~0.8.10",
+    "jquery": "~2.1.0-beta3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "moudy <moudy.elkammash@gmail.com",
+  "license": "BSD-2-Clause",
+}
