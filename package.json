@@ -1,6 +1,6 @@
 {
   "name": "jquery-replace-class",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Replace one or more classes on an element",
   "main": "index.js",
   "devDependencies": {
@@ -13,5 +13,9 @@
     "test": "mocha"
   },
   "author": "moudy <moudy.elkammash@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:moudy/jquery-replace-class.git"
+  },
   "license": "BSD-2-Clause"
 }
