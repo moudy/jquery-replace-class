@@ -1,6 +1,5 @@
-[![Build Status](https://travis-ci.org/moudy/jquery-replace-class.png)](https://travis-ci.org/moudy/jquery-replace-class)
 
-# jQuery.replaceClass
+# jQuery.replaceClass [![Build Status](https://travis-ci.org/moudy/jquery-replace-class.png)](https://travis-ci.org/moudy/jquery-replace-class)
 
 Remove one or more classes that match a string or regular expression and optionally add a class. Usefull when you need to swap out classes the have the same prefix like `$('#el').replaceClass(/^animate-/, 'animate-out');`.
 
